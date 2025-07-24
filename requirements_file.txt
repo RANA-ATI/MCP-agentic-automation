@@ -1,0 +1,11 @@
+# MCP Framework
+mcp>=1.0.0
+
+# Google API Libraries
+google-auth>=2.17.0
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.2.0
+google-api-python-client>=2.88.0
+
+# Additional utilities (optional but recommended)
+python-dateutil>=2.8.0
