@@ -1,0 +1,7 @@
+{
+  "command": "Navigate to Islamabad using Google Maps",
+  "intent": "get_directions",
+  "source": "Lahore",
+  "destination": "Islamabad",
+  "transport_mode": "driving"
+}
